@@ -85,7 +85,7 @@ My research profile centers on **cognitive ergonomics, diagnostic decision archi
 
 ---
 
-## 🚀 Featured Projects & Experience
+## 🚀 Current Projects
 
 ### [Behavioral-Paradigm-Design-Psychometric-Pipeline-Preparation](https://github.com/Atefeh-Nouri/Behavioral-Paradigm-Design-Psychometric-Pipeline-Preparation)
 * **Description:** A Python-based repository focused on the design of behavioral paradigms and the preparation of psychometric data pipelines for cognitive research.
