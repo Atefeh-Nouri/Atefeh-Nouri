@@ -9,7 +9,7 @@
   </p>
   
   <p>
-    <a href="https://www.linkedin.com/in/atefeh-nouri"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/atefeh-nouri-b32a7324a/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:Atefeh.nouri@uni-oldenburg.de"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
   </p>
 </div>
